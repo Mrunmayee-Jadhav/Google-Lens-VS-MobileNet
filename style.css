@@ -1,0 +1,107 @@
+h3{
+    color: red;
+    text-align: center;
+}
+
+div {
+    background-color: rgb(164, 164, 164);
+    padding: 10px;
+    border-radius: 10px;
+    margin-top: 20px;
+    margin-bottom: 10px;
+    margin-left: -15px;
+}
+
+.gl{
+    background-color: white;
+    width: 300px;
+    border-radius: 10px;
+    font-size: 15px;
+    padding: 5px;
+    text-align: center;
+    margin: 80px;
+    white-space: pre-line;
+}
+
+.mn{
+    background-color: white;
+    width: 300px;
+    border-radius: 10px;
+    font-size: 15px;
+    padding: 5px;
+    text-align: center;
+    margin: 80px;
+    white-space: pre-line;
+}
+
+#b{
+    color: white;
+    margin: 20px;
+    margin-top: 40px
+}
+
+.mini_result .res {
+    text-align: center;
+    color: white;
+    margin-top: -400px;
+    margin-left: 470px;
+}
+
+hr{
+    width: 910px;
+    text-align: right;
+    margin-left: 500px;
+}
+
+#vs {
+    margin-top: 10px;
+}
+
+img{
+    border-radius: 10px;
+    border-style:solid;
+    border-color: black;
+    
+}
+
+.result {
+    text-align: center;
+    color: white;
+    margin-left: 450px;
+}
+
+#cup {
+    text-align: center;
+    color: white;
+    margin-top: -750px;
+    margin-left: 470px;
+}
+
+.red {
+    color: red;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+label {
+    font-size: 20px;
+}
+
+.main_result {
+    background-color:rgb(111, 183, 255);
+    text-align: center;
+    height: 150px;
+    margin-top: 3925px;
+    width: 1000px;
+    margin-left: 250px;
+    padding: 30px;
+    border-radius: 10px;
+    color: rgb(0, 93, 206);
+   border-style: solid;
+   border: 5px;
+}
+
+.main_result b {
+    color: blue;
+}
+
